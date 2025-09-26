@@ -7,8 +7,21 @@
 **Date**: November 3rd, 2025.
 
 
+## About the Workshop
 
-### Schedule:
+
+## Registration
+Registration is free but mandatory (the capacity is limited), by October 20th at the latest.
+You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=fr).
+
+## Invited speakers
+- [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
+- [Pierpaola Santarsiero](https://pierpaolasantarsiero.wixsite.com/pierpaola) (Università di Bologna, Italy)
+- [Luca Sodomaco](https://sites.google.com/view/luca-sodomaco/home) (Max-Planck-Institut, Leipzig, Germany)
+- [Alexander Taveira Blomenhofer](https://a44l.github.io/) (QMATH centre, University of Copenhagen, Denmark)
+- [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven/) (KU Leuven, Belgium)
+
+## Schedule
 
 | **Time**         | **Session**                             |
 |-----------------------|-----------------------------------------|
@@ -25,21 +38,6 @@
 | 16:15-16:45      | Luca Sodomaco <br> *TBA*      [(abstract)](#sodomaco)        |
 | 19:30            | Dinner in the city centre |
 
-
-## About the Workshop
-
-
-## Registration
-Registration is free but mandatory (the capacity is limited), by October 20th at the latest.
-
-## Invited speakers
-- [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
-- [Pierpaola Santarsiero](https://pierpaolasantarsiero.wixsite.com/pierpaola) (Università di Bologna, Italy)
-- [Luca Sodomaco](https://sites.google.com/view/luca-sodomaco/home) (Max-Planck-Institut, Leipzig, Germany)
-- [Alexander Taveira Blomenhofer](https://a44l.github.io/) (QMATH centre, University of Copenhagen, Denmark)
-- [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven/) (KU Leuven, Belgium)
-
-## Schedule
 
 ### Nick Vannieuwenhoven
 *TBA*
