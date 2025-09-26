@@ -1,5 +1,6 @@
 ## Journée scientifique du pôle AM2I : "Introduction à la géométrie des tenseurs"
 
+![Logo IECL](https://cran-simul.github.io/tensors-geometry-workshop/iecl.png "IECL")
 **Location**: IECL (Institut Élie Cartan de Lorraine), Université de Lorraine, rue du Jardin botanique, Villers-lès-Nancy (salle de conférences).  [How to get there](https://www.openstreetmap.org/?#map=19/48.665865/6.159937)
 
 
