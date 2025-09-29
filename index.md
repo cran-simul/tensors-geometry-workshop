@@ -1,6 +1,5 @@
 ## Journée scientifique du pôle AM2I : "Introduction à la géométrie des tenseurs"
 
-![IECL](logo_iecl.png "IECL")  ![CRAN](Logo_CRAN.jpg "CRAN") ![UL](LOGO_UL.png "UL") ![CNRS](Logo_CNRS.png "CNRS")
 
 **Location**: IECL (Institut Élie Cartan de Lorraine), Université de Lorraine, rue du Jardin botanique, Villers-lès-Nancy (salle de conférences).  [How to get there](https://www.openstreetmap.org/?#map=19/48.665865/6.159937)
 
@@ -88,6 +87,31 @@ Organization committee:
  - group [SiMul @ CRAN](https://cran-simul.github.io/).
 
 You can email the organizers at: [firstname.lastname@univ-lorraine.fr](firstname.lastname@univ-lorraine.fr)
+
+<!DOCTYPE html>
+<html lang="fr">
+<body>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" width="25%">
+      <img src="logo_iecl.png" alt="IECL" style="max-width: 100%; height: auto;" />
+    </td>
+    <td align="center" width="25%">
+      <img src="Logo_CRAN.jpg" alt="CRAN" style="max-width: 100%; height: auto;" />
+    </td>
+    <td align="center" width="25%">
+      <img src="LOGO_UL.png" alt="UL" style="max-width: 100%; height: auto;" />
+    </td>
+    <td align="center" width="25%">
+      <img src="Logo_CNRS.png" alt="CNRS" style="max-width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
 
 ---
 
