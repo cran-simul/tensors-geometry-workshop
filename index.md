@@ -24,7 +24,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 ## Schedule
 
 | **Time**         | **Session**                             |
-|-----------------------|----------------------------------------- <a name="mon"></a>                            |
+|-----------------------|-----------------------------------------|
 | 10:00-10:30      | Welcome coffee                        |
 | 10:30-11:30      | Nick Vannieuwenhoven <br> *TBA*     [(abstract)](#vannieuwenhoven)                    |
 | 11:30-11:45      | Coffee break          |
@@ -33,8 +33,8 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 | 14:00-15:00      | Bernard Mourrain  <br> *TBA* [(abstract)](#mourrain)  |
 | 15:00-15:30      | Coffee break                            |
 | 15:30-16:00      | Pierpaola Santarsiero <br> *TBA* [(abstract)](#santarsiero)  |
-| 16:00-16:15      | Break                               |
-| 16:15-16:45      | Luca Sodomaco <br> *TBA*      [(abstract)](#sodomaco)        |
+| 16:00-16:30      | Break                               |
+| 16:30-17:00      | Luca Sodomaco <br> *TBA*      [(abstract)](#sodomaco)        |
 | 19:30            | Dinner in the city centre |
 
 
