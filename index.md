@@ -1,14 +1,19 @@
 ## Journée scientifique du pôle AM2I : "Introduction à la géométrie des tenseurs"
 
+![tenseur](tenseur.png)
 
 **Location**: IECL (Institut Élie Cartan de Lorraine), Université de Lorraine, rue du Jardin botanique, Villers-lès-Nancy (salle de conférences).  [How to get there](https://www.openstreetmap.org/?#map=19/48.665865/6.159937)
+![photo-iecl](IECL.jpg)
 
 
 **Date**: November 3rd, 2025.
 
 
 ## About the Workshop
+This one-day workshop is an introduction to the mathematical theory of tensors, specifically from the viewpoints of algebraic geometry and commutative algebra, and its applications. 
+This topic has indeed been attracting considerable research interest in the past few years, due to its various applications, for example in machine learning, algebraic statistics as well as signal processing. 
 
+Though it is aimed to non-specialists geometers, part of the talks will be accessible to a larger audience. 
 
 ## Registration
 Registration is free but mandatory (the capacity is limited), by October 20th at the latest.
