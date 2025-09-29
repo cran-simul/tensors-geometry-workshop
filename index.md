@@ -24,8 +24,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 ## Schedule
 
 | **Time**         | **Session**                             |
-|-----------------------|-----------------------------------------|
-| **Mon 3 Nov** | <a name="mon"></a>                            |
+|-----------------------|----------------------------------------- <a name="mon"></a>                            |
 | 10:00-10:30      | Welcome coffee                        |
 | 10:30-11:30      | Nick Vannieuwenhoven <br> *TBA*     [(abstract)](#vannieuwenhoven)                    |
 | 11:30-11:45      | Coffee break          |
