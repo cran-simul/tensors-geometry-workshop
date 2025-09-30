@@ -33,13 +33,13 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 | 10:00-10:30      | Welcome coffee                        |
 | 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*     [(abstract)](#vannieuwenhoven)                    |
 | 11:30-11:45      | Coffee break          |
-| 11:45-12:15      | Alexander Taveira Blomenhofer <br> *TBA*       [(abstract)](#blomenhofer)              |
+| 11:45-12:15      | Alexander Taveira Blomenhofer <br> *Dimension of secant varieties and identifiability*       [(abstract)](#blomenhofer)              |
 | 12:15-14:00      | Lunch break          |
 | 14:00-15:00      | Bernard Mourrain  <br> *TBA* [(abstract)](#mourrain)  |
 | 15:00-15:30      | Coffee break                            |
 | 15:30-16:00      | Pierpaola Santarsiero <br> *TBA* [(abstract)](#santarsiero)  |
 | 16:00-16:30      | Break                               |
-| 16:30-17:00      | Luca Sodomaco <br> *TBA*      [(abstract)](#sodomaco)        |
+| 16:30-17:00      | Luca Sodomaco <br> *Rayleigh quotient optimization over tensor varieties*      [(abstract)](#sodomaco)        |
 | 19:30            | Dinner in the city centre |
 
 
@@ -51,7 +51,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 [(back to schedule)](#mon)
 
 ### Alexander Taveira Blomenhofer
-*TBA*
+*Dimension of secant varieties and identifiability*
 
 **Abstract:** TBA
 
@@ -72,7 +72,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 [(back to schedule)](#mon)
 
 ### Luca Sodomaco
-*TBA*
+*Rayleigh quotient optimization over tensor varieties*
 
 **Abstract:** TBA
 
