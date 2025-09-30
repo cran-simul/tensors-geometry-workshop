@@ -8,7 +8,6 @@
 
 **Date**: November 3rd, 2025.
 
-
 ## About the Workshop
 This one-day workshop is an introduction to the mathematical theory of tensors, specifically from the viewpoints of algebraic geometry and commutative algebra, and its applications. 
 This topic has indeed been attracting considerable research interest in the past few years, due to its various applications, for example in machine learning, algebraic statistics as well as signal processing. 
