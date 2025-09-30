@@ -13,7 +13,7 @@
 This one-day workshop is an introduction to the mathematical theory of tensors, specifically from the viewpoints of algebraic geometry and commutative algebra, and its applications. 
 This topic has indeed been attracting considerable research interest in the past few years, due to its various applications, for example in machine learning, algebraic statistics as well as signal processing. 
 
-Though it is aimed to non-specialists geometers, part of the talks will be accessible to a larger audience. 
+Though it is intended to non-specialists geometers, part of the talks will be accessible to a larger audience, and everyone is welcome!
 
 ## Registration
 Registration is free but mandatory (the capacity is limited), by October 20th at the latest.
