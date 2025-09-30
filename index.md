@@ -31,7 +31,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 | **Time**         | **Session**                             |
 |-----------------------|-----------------------------------------|
 | 10:00-10:30      | Welcome coffee                        |
-| 10:30-11:30      | Nick Vannieuwenhoven <br> *TBA*     [(abstract)](#vannieuwenhoven)                    |
+| 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*     [(abstract)](#vannieuwenhoven)                    |
 | 11:30-11:45      | Coffee break          |
 | 11:45-12:15      | Alexander Taveira Blomenhofer <br> *TBA*       [(abstract)](#blomenhofer)              |
 | 12:15-14:00      | Lunch break          |
@@ -44,7 +44,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 
 
 ### Nick Vannieuwenhoven
-*TBA*
+*An introduction to tensor rank decomposition*
 
 **Abstract:** TBA
 
