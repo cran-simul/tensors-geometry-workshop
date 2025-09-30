@@ -38,7 +38,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 | 15:00-15:30      | Coffee break                            |
 | 15:30-16:00      | Pierpaola Santarsiero <br> *TBA* [(abstract)](#santarsiero)  |
 | 16:00-16:30      | Break                               |
-| 16:30-17:00      | Luca Sodomaco <br> *Rayleigh quotient optimization over tensor varieties*      [(abstract)](#sodomaco)        |
+| 16:30-17:00      | Luca Sodomaco <br> *Nonlinear Rayleigh quotient optimization*      [(abstract)](#sodomaco)        |
 | 19:30            | Dinner in the city centre |
 
 
@@ -71,9 +71,9 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 [(back to schedule)](#mon)
 
 ### Luca Sodomaco
-*Rayleigh quotient optimization over tensor varieties*
+*Nonlinear Rayleigh quotient optimization*
 
-**Abstract:** TBA
+**Abstract:** The nonzero critical points of the Rayleigh quotient associated with a square matrix correspond to its nonzero eigenvectors. In this work, we study the critical points of the Rayleigh quotient constrained to an algebraic variety. We relate the number of complex critical points to the Euclidean distance degree of a Veronese embedding of the variety of constraints and provide concrete formulas in various scenarios, including those involving varieties of rank-one tensors. This presentation is about joint work with Flavio Salizzoni and Julian Weigert.
 
 [(back to schedule)](#mon)
 
