@@ -16,7 +16,7 @@ This topic has indeed been attracting considerable research interest in the past
 Though it is intended to non-specialists geometers, part of the talks will be accessible to a larger audience, and everyone is welcome!
 
 ## Registration
-Registration is free but mandatory (the capacity is limited), by October 20th at the latest.
+Registration is free but mandatory (the capacity is limited), by October 15th at the latest.
 You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=fr).
 
 ## Invited speakers
