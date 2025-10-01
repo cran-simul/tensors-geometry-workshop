@@ -25,6 +25,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 - [Alexander Taveira Blomenhofer](https://a44l.github.io/) (QMATH centre, University of Copenhagen, Denmark)
 - [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven/) (KU Leuven, Belgium)
 
+<a name="mon"></a>
 ## Schedule (to be confirmed)
 
 | **Time**         | **Session**                             |
