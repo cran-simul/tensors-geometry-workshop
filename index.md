@@ -25,14 +25,14 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 - [Alexander Taveira Blomenhofer](https://a44l.github.io/) (QMATH centre, University of Copenhagen, Denmark)
 - [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven/) (KU Leuven, Belgium)
 
-## Schedule (to be confirmed)
 <a name="mon"></a>
+## Schedule (to be confirmed)
 | **Time**         | **Session**                             |
 |-----------------------|-----------------------------------------|
 | 10:00-10:30      | Welcome coffee                        |
-| 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*     [(abstract)](#nick-vannieuwenhoven)                    |
+| 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*  [(abstract)](#nick-vannieuwenhoven)  |
 | 11:30-11:45      | Coffee break          |
-| 11:45-12:15      | Alexander Taveira Blomenhofer <br> *Dimension of secant varieties and identifiability*       [(abstract)](#alexander-taveira-blomenhofer)              |
+| 11:45-12:15      | Alexander Taveira Blomenhofer <br> *Dimension of secant varieties and identifiability [(abstract)](#alexander-taveira-blomenhofer)              |
 | 12:15-14:00      | Lunch break          |
 | 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#bernard-mourrain)  |
 | 15:00-15:30      | Coffee break                            |
@@ -48,7 +48,6 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 
 [(back to schedule)](#mon)
 
-<a name="taveirablomenhofer"></a>
 ### Alexander Taveira Blomenhofer
 *Dimension of secant varieties and identifiability*
 
@@ -56,7 +55,6 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 
 [(back to schedule)](#mon)
 
-<a name="mourrain"></a>
 ### Bernard Mourrain
 *An algebraic-geometric view on tensor decomposition problems*
 
