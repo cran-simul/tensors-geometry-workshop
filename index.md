@@ -1,4 +1,4 @@
-## Journée scientifique du pôle AM2I : "Introduction à la géométrie des tenseurs"
+## Journée scientifique du pôle AM2I : "Introduction à la géométrie des tenseurs" (Monday 3rd November 2025)
 
 ![tenseur](tenseur.png)
 
