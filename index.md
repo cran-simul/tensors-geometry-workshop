@@ -26,21 +26,20 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 - [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven/) (KU Leuven, Belgium)
 
 ## Schedule (to be confirmed)
-
+<a name="mon"></a>
 | **Time**         | **Session**                             |
 |-----------------------|-----------------------------------------|
 | 10:00-10:30      | Welcome coffee                        |
-| 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*     [(abstract)](#vannieuwenhoven)                    |
+| 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*     [(abstract)](#nick-vannieuwenhoven)                    |
 | 11:30-11:45      | Coffee break          |
-| 11:45-12:15      | Alexander Taveira Blomenhofer <br> *Dimension of secant varieties and identifiability*       [(abstract)](#blomenhofer)              |
+| 11:45-12:15      | Alexander Taveira Blomenhofer <br> *Dimension of secant varieties and identifiability*       [(abstract)](#alexander-taveira-blomenhofer)              |
 | 12:15-14:00      | Lunch break          |
-| 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#mourrain)  |
+| 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#bernard-mourrain)  |
 | 15:00-15:30      | Coffee break                            |
-| 15:30-16:00      | Pierpaola Santarsiero <br> *TBA* [(abstract)](#santarsiero)  |
+| 15:30-16:00      | Pierpaola Santarsiero <br> *TBA* [(abstract)](#pierpaola-santarsiero)  |
 | 16:00-16:30      | Break                               |
-| 16:30-17:00      | Luca Sodomaco <br> *Nonlinear Rayleigh quotient optimization*      [(abstract)](#sodomaco)        |
+| 16:30-17:00      | Luca Sodomaco <br> *Nonlinear Rayleigh quotient optimization*      [(abstract)](#luca-sodomaco)        |
 | 19:30            | Dinner in the city centre |
-
 
 ### Nick Vannieuwenhoven
 *An introduction to tensor rank decomposition*
@@ -49,6 +48,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 
 [(back to schedule)](#mon)
 
+<a name="taveirablomenhofer"></a>
 ### Alexander Taveira Blomenhofer
 *Dimension of secant varieties and identifiability*
 
@@ -56,6 +56,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 
 [(back to schedule)](#mon)
 
+<a name="mourrain"></a>
 ### Bernard Mourrain
 *An algebraic-geometric view on tensor decomposition problems*
 
@@ -105,9 +106,7 @@ Organization committee:
 
 You can email the organizers at: [firstname.lastname@univ-lorraine.fr](firstname.lastname@univ-lorraine.fr)
 
-<!DOCTYPE html>
-<html lang="fr">
-<body>
+
 <table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="25%">
@@ -124,9 +123,6 @@ You can email the organizers at: [firstname.lastname@univ-lorraine.fr](firstname
     </td>
   </tr>
 </table>
-
-</body>
-</html>
 
 
 
