@@ -34,7 +34,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 | 11:30-11:45      | Coffee break          |
 | 11:45-12:15      | Alexander Taveira Blomenhofer <br> *Dimension of secant varieties and identifiability*       [(abstract)](#blomenhofer)              |
 | 12:15-14:00      | Lunch break          |
-| 14:00-15:00      | Bernard Mourrain  <br> *TBA* [(abstract)](#mourrain)  |
+| 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#mourrain)  |
 | 15:00-15:30      | Coffee break                            |
 | 15:30-16:00      | Pierpaola Santarsiero <br> *TBA* [(abstract)](#santarsiero)  |
 | 16:00-16:30      | Break                               |
@@ -57,9 +57,22 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 [(back to schedule)](#mon)
 
 ### Bernard Mourrain
-*TBA*
+*An algebraic-geometric view on tensor decomposition problems*
 
-**Abstract:** TBA
+**Abstract:** Tensors are fundamental mathematical objects that generalize matrices to higher dimensions and play a crucial role in various domains. 
+
+Tensor decomposition has emerged as a key technique in the analysis of higher-order tensors, to reveal the underlying structure of the data, 
+to reduce its complexity, and to facilitate more efficient computations. However, it is a challenging problem from a computational and numerical point of view.
+This can be explained by the complex and still unrevealed geometry hidden behind the scene.
+
+
+We will explore this geometry through the prism of algebra, illustrating how Artinian algebras can be naturally associated with general tensor decompositions for multilinear, symmetric, and multisymmetric tensors. 
+
+We will review algebraic geometric approaches, which reduces tensor decomposition to direct eigenvalue and eigenvector computations when the rank is small.
+
+When the rank is higher, the geometry is much more complex. We will see how the tensor decomposition problem can be transformed into a simultaneous diagonalization problem of extended tensors. The relationship between these varieties of extended tensors and the punctual Hilbert scheme, via families of commuting matrices will be discussed.
+
+The various concepts will be illustrated by effective calculations on a few examples.
 
 [(back to schedule)](#mon)
  
