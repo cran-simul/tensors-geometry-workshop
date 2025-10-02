@@ -98,6 +98,7 @@ The various concepts will be illustrated by effective calculations on a few exam
 
 Organization committee: 
  - Clara Derand
+ - Anne Incerti
  - Gianluca Pacienza
  - Konstantin Usevich
  - [Institut Élie Cartan de Lorraine](https://iecl.univ-lorraine.fr/) 
