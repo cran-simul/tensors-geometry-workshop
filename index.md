@@ -50,9 +50,9 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 [(back to schedule)](#mon)
 
 ### Alexander Taveira Blomenhofer
-*Dimension of secant varieties and identifiability*
+*Additive X-rank decomposition*
 
-**Abstract:** TBA
+**Abstract:** The X-rank problem aims to write a vector as a sum of r elements of a subvariety X, where r is minimal. Common examples include tensor rank, symmetric tensor rank, Chow rank and alternating rank, where X is, respectively, the Segre variety, the Veronese variety, the Chow variety or the Grassmannian. The X-rank problem also occurs in the parameter estimation problem for Gaussian mixtures from moments. We discuss recent results on X-rank, such as identifiability and algorithms. Based on joint work with Benjamin Lovitz and Alex Casarotti. 
 
 [(back to schedule)](#mon)
 
