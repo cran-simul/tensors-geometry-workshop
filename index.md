@@ -20,7 +20,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 
 ## Invited speakers
 - [Bernard Mourrain](https://www-sop.inria.fr/members/Bernard.Mourrain/) (INRIA Sophia-Antipolis)
-- [Pierpaola Santarsiero](https://pierpaolasantarsiero.wixsite.com/pierpaola) (Università di Bologna, Italy)
+- [Pierpaola Santarsiero](https://pierpaolasantarsiero.wixsite.com/pierpaola) (Università Politecnica delle Marche, Ancona, Italy)
 - [Luca Sodomaco](https://sites.google.com/view/luca-sodomaco/home) (Max-Planck-Institut, Leipzig, Germany)
 - [Alexander Taveira Blomenhofer](https://a44l.github.io/) (QMATH centre, University of Copenhagen, Denmark)
 - [Nick Vannieuwenhoven](https://people.cs.kuleuven.be/~nick.vannieuwenhoven/) (KU Leuven, Belgium)
