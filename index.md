@@ -33,7 +33,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 | 10:00-10:30      | Welcome coffee                        |
 | 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*  [(abstract)](#nick-vannieuwenhoven)  |
 | 11:30-11:45      | Coffee break          |
-| 11:45-12:15      | Alexander Taveira Blomenhofer <br> *Dimension of secant varieties and identifiability* [(abstract)](#alexander-taveira-blomenhofer)              |
+| 11:45-12:15      | Alexander Taveira Blomenhofer <br> *Additive X-rank decomposition* [(abstract)](#alexander-taveira-blomenhofer)              |
 | 12:15-14:00      | Lunch break          |
 | 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#bernard-mourrain)  |
 | 15:00-15:30      | Coffee break                            |
