@@ -45,7 +45,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 ### Nick Vannieuwenhoven
 *An introduction to tensor rank decomposition*
 
-**Abstract:** TBA
+**Abstract:** The tensor rank decomposition is a fundamental tensor decomposition with applications spanning signal processing, data analysis, and machine learning. This talk will provide an accessible introduction to tensors and their basic properties. We investigate the algebraic geometry of the set of bounded-rank tensors. A geometric perspective on identifiability will be presented, including a flavor of the conditions under which uniqueness of tensor rank decompositions can be guaranteed. Finally, we consider metric questions and determine the sensitivity of tensor rank decomposition to perturbations of the tensor.
 
 [(back to schedule)](#mon)
 
