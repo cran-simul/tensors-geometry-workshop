@@ -94,15 +94,25 @@ The various concepts will be illustrated by effective calculations on a few exam
 
 
 
-## Contact Us
+## Organizers
+### Funded by
+ - pôle AM2I, Université de Lorraine
+ - équipe géométrie, IECL
+ - CNRS IEA project AT-AI (CRAN)
 
-Organization committee: 
- - Clara Derand
+### Administrative support
+ - Mathilde Bleeker
  - Anne Incerti
+ - Paola Schneider
+
+### Organizing committee 
+ - Clara Derand
  - Gianluca Pacienza
  - Konstantin Usevich
  - [Institut Élie Cartan de Lorraine](https://iecl.univ-lorraine.fr/) 
  - group [SiMul @ CRAN](https://cran-simul.github.io/).
+
+### Contact Us
 
 You can email the organizers at: [firstname.lastname@univ-lorraine.fr](firstname.lastname@univ-lorraine.fr)
 
