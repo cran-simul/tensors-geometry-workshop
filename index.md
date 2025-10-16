@@ -32,14 +32,12 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 |-----------------------|-----------------------------------------|
 | 10:00-10:30      | Welcome coffee                        |
 | 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*  [(abstract)](#nick-vannieuwenhoven)  |
-| 11:30-11:45      | Coffee break          |
-| 11:45-12:15      | Alexander Taveira Blomenhofer <br> *Additive X-rank decomposition* [(abstract)](#alexander-taveira-blomenhofer)              |
+| 11:30-12:15      | Alexander Taveira Blomenhofer <br> *Additive X-rank decomposition* [(abstract)](#alexander-taveira-blomenhofer)              |
 | 12:15-14:00      | Lunch break          |
-| 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#bernard-mourrain)  |
-| 15:00-15:30      | Coffee break                            |
-| 15:30-16:00      | Pierpaola Santarsiero <br> *TBA* [(abstract)](#pierpaola-santarsiero)  |
-| 16:00-16:30      | Break                               |
-| 16:30-17:00      | Luca Sodomaco <br> *Nonlinear Rayleigh quotient optimization*      [(abstract)](#luca-sodomaco)        |
+| 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#bernard-mourrain)  |                       |
+| 15:00-15:45     | Pierpaola Santarsiero <br> *TBA* [(abstract)](#pierpaola-santarsiero)  |
+| 15:45-16:15      | Cofee break                               |
+| 16:15-17:00      | Luca Sodomaco <br> *Nonlinear Rayleigh quotient optimization*      [(abstract)](#luca-sodomaco)        |
 | 19:30            | Dinner in the city centre |
 
 ### Nick Vannieuwenhoven
