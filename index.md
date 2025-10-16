@@ -34,9 +34,9 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 | 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*  [(abstract)](#nick-vannieuwenhoven)  |
 | 11:30-12:15      | Alexander Taveira Blomenhofer <br> *Additive X-rank decomposition* [(abstract)](#alexander-taveira-blomenhofer)              |
 | 12:15-14:00      | Lunch break          |
-| 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#bernard-mourrain)  |                       |
+| 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#bernard-mourrain)  |                      
 | 15:00-15:45     | Pierpaola Santarsiero <br> *TBA* [(abstract)](#pierpaola-santarsiero)  |
-| 15:45-16:15      | Cofee break                               |
+| 15:45-16:15      | Coffee break                               |
 | 16:15-17:00      | Luca Sodomaco <br> *Nonlinear Rayleigh quotient optimization*      [(abstract)](#luca-sodomaco)        |
 | 19:30            | Dinner in the city centre |
 
