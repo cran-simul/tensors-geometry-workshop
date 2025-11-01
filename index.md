@@ -35,7 +35,7 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 | 11:30-12:15      | Alexander Taveira Blomenhofer <br> *Additive X-rank decomposition* [(abstract)](#alexander-taveira-blomenhofer)              |
 | 12:15-14:00      | Lunch break          |
 | 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#bernard-mourrain)  |                      
-| 15:00-15:45     | Pierpaola Santarsiero <br> *TBA* [(abstract)](#pierpaola-santarsiero)  |
+| 15:00-15:45     | Pierpaola Santarsiero <br> *Terracini-inspired insights for tensor decomposition* [(abstract)](#pierpaola-santarsiero)  |
 | 15:45-16:15      | Coffee break                               |
 | 16:15-17:00      | Luca Sodomaco <br> *Nonlinear Rayleigh quotient optimization*      [(abstract)](#luca-sodomaco)        |
 | 19:30            | Dinner in the city centre |
@@ -75,9 +75,9 @@ The various concepts will be illustrated by effective calculations on a few exam
 [(back to schedule)](#mon)
  
 ### Pierpaola Santarsiero
-*TBA*
+*Terracini-inspired insights for tensor decomposition*
 
-**Abstract:** TBA
+**Abstract:** In this talk, I will revisit Terracini’s Lemma from a geometric perspective, exploring its connections with tensor decomposition. By examining these links, we gain inspiration to study the r-Terracini locus of a variety X. This is the locus of all sets of r smooth points of X whose span of the corresponding tangent spaces has dimension less than expected. Time permitting, I will also touch upon Terracini’s second lemma and the directions it suggests for further exploration.
 
 [(back to schedule)](#mon)
 
