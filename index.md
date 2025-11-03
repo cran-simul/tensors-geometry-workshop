@@ -31,14 +31,14 @@ You can register [here](https://enquetes.univ-lorraine.fr/index.php/417547?lang=
 | **Time**         | **Session**                             |
 |-----------------------|-----------------------------------------|
 | 10:00-10:30      | Welcome coffee                        |
-| 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*  [(abstract)](#nick-vannieuwenhoven)  |
-| 11:30-12:15      | Alexander Taveira Blomenhofer <br> *Additive X-rank decomposition* [(abstract)](#alexander-taveira-blomenhofer)              |
+| 10:30-11:30      | Nick Vannieuwenhoven <br> *An introduction to tensor rank decomposition*  [(abstract)](#nick-vannieuwenhoven)  [(slides)](Nancy20251027.pdf)|
+| 11:30-12:15      | Alexander Taveira Blomenhofer <br> *Additive X-rank decomposition* [(abstract)](#alexander-taveira-blomenhofer)  [(slides)](2025-11-ablomenhofer-nancy.pdf)            |
 | 12:15-14:00      | Lunch break          |
-| 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#bernard-mourrain)  |                      
-| 15:00-15:45     | Pierpaola Santarsiero <br> *Terracini-inspired insights for tensor decomposition* [(abstract)](#pierpaola-santarsiero)  |
+| 14:00-15:00      | Bernard Mourrain  <br> *An algebraic-geometric view on tensor decomposition problems* [(abstract)](#bernard-mourrain) [(slides)](25.Tensors-Nancy.pdf) |                      
+| 15:00-15:45     | Pierpaola Santarsiero <br> *Terracini-inspired insights for tensor decomposition* [(abstract)](#pierpaola-santarsiero) [(slides)](pierpaola_talk.pdf)  |
 | 15:45-16:15      | Coffee break                               |
-| 16:15-17:00      | Luca Sodomaco <br> *Nonlinear Rayleigh quotient optimization*      [(abstract)](#luca-sodomaco)        |
-| 19:30            | Dinner in the city centre |
+| 16:15-17:00      | Luca Sodomaco <br> *Nonlinear Rayleigh quotient optimization*      [(abstract)](#luca-sodomaco) [(slides)](Slides_Nancy_Sodomaco.pdf)     |
+| 19:30            | Dinner at Grand Café Foy |
 
 ### Nick Vannieuwenhoven
 *An introduction to tensor rank decomposition*
